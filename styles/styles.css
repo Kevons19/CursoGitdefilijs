@@ -15,10 +15,6 @@ h1,h3,h4,h5,h6{
     font-family: 'Raleway', sans-serif;
 }
 
-h2{
-    text-transform: uppercase;
-}
-
 .content h1{
     font-family: 'Kaushan Script', cursive;
     color: #D74942;
@@ -98,7 +94,7 @@ h2{
     font-size: 50px;
     margin: 15px 0;
     text-align: center;
-    text-transform: uppercase;
+    
     letter-spacing: 5px;
 }
 
@@ -118,8 +114,9 @@ h2{
 }
 
 .infoContent .block h3 a {
-    color: #ffffff;
-    text-shadow: 2px 2px 3px black;
+    color: #b2f649;
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 2px 2px 3px red;
 }
 
 .infoContent .block{
